@@ -1,0 +1,16 @@
+{
+  "name": "nodeIII",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "frankbenevento <frankbenevento123@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "server": "nodemon"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  }
+}
